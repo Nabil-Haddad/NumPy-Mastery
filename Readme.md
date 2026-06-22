@@ -27,7 +27,7 @@ numpy-mastery/
 │   ├── ex02_indexing.ipynb
 │   ├── ex03_operations.ipynb
 │   ├── ex04_broadcasting.ipynb
-│   └── solutions/      # Full worked solutions
+│ 
 │
 └── project/            # Capstone: image processing pipeline
     ├── filters.py       # Convolution: Sobel, Gaussian, Laplacian
