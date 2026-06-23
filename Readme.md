@@ -24,8 +24,8 @@ numpy-mastery/
 │
 ├── exercises/          # 40+ graded problems (Easy → Hard)
 │   ├── ex01_creation.ipynb
-│   ├── ex02_indexing_slicing.ipynb
-│   ├── ex03_operations_broadcasting.ipynb
+│   ├── ex02_indexing.ipynb
+│   ├── ex03_operations.ipynb
 │   ├── ex04_linear_algebra.ipynb
 │ 
 │
