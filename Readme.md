@@ -6,7 +6,7 @@
 ![Tests](https://img.shields.io/badge/Tests-pytest-green?logo=pytest)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-A structured, hands-on repository documenting my path to NumPy proficiency — from first principles to a production-style image processing pipeline built with **zero external math libraries**.
+A structured, hands-on repository documenting my path to NumPy proficiency, from first principles to a production-style image processing pipeline built with **zero external math libraries**.
 
 ---
 
@@ -101,7 +101,7 @@ jupyter notebook notebooks/01_array_creation.ipynb
 
 ## Skills demonstrated
 
-- Vectorised computation — no Python loops where NumPy can do the job
+- Vectorised computation, no Python loops where NumPy can do the job
 - Broadcasting across N-dimensional arrays
 - Memory-efficient operations via views and stride tricks
 - Linear algebra from first principles (regression, SVD, eigenvalues)
