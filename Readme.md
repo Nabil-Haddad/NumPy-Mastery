@@ -11,32 +11,40 @@ A structured, hands-on repository documenting my path to NumPy proficiency, from
 ---
 
 ## What's in here
-
+ 
 ```
 numpy-mastery/
-├── notebooks/          # 6 annotated learning notebooks
+├── notebooks/                        # 6 annotated learning notebooks
 │   ├── 01_array_creation.ipynb
 │   ├── 02_indexing_slicing.ipynb
 │   ├── 03_operations_broadcasting.ipynb
 │   ├── 04_linear_algebra.ipynb
 │   ├── 05_statistics_random.ipynb
-│   └── 06_performance_tricks.ipynb
+│   └── 06_performance_tricks.ipynb   # coming soon
 │
-├── exercises/          # 40+ graded problems (Easy → Hard)
+├── exercises/                        # 50+ graded problems (Easy → Hard)
 │   ├── ex01_creation.ipynb
 │   ├── ex02_indexing.ipynb
 │   ├── ex03_operations.ipynb
 │   ├── ex04_linear_algebra.ipynb
-│ 
+│   ├── ex05_statistics.ipynb
+│   └── solutions/                    # Full worked solutions for each module
+│       ├── sol01_creation.ipynb
+│       ├── sol02_indexing.ipynb
+│       ├── sol03_operations.ipynb
+│       ├── sol04_linear_algebra.ipynb
+│       └── sol05_statistics.ipynb
 │
-└── project/            # Capstone: image processing pipeline
-    ├── filters.py       # Convolution: Sobel, Gaussian, Laplacian
-    ├── transforms.py    # Rotate, resize, flip, crop
-    ├── pipeline.py      # Composable operation chains
-    ├── demo.ipynb       # Visual before/after walkthrough
-    ├── benchmarks.ipynb # NumPy vs naive Python speed tests
-    └── tests/           # pytest test suite
+└── project/                          # Capstone: image processing pipeline
+    ├── filters.py                    # Convolution: Sobel, Gaussian, Laplacian
+    ├── transforms.py                 # Rotate, resize, flip, crop
+    ├── pipeline.py                   # Composable | operator chain
+    ├── demo.ipynb                    # Visual before/after walkthrough
+    ├── benchmarks.ipynb              # NumPy vs naive Python speed tests
+    └── tests/                        # pytest suite (35 tests)
 ```
+ 
+---
 
 ---
 
