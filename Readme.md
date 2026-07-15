@@ -28,12 +28,7 @@ numpy-mastery/
 │   ├── ex03_operations.ipynb
 │   ├── ex04_linear_algebra.ipynb
 │   ├── ex05_statistics.ipynb
-│   └── solutions/                    # Full worked solutions for each module
-│       ├── sol01_creation.ipynb
-│       ├── sol02_indexing.ipynb
-│       ├── sol03_operations.ipynb
-│       ├── sol04_linear_algebra.ipynb
-│       └── sol05_statistics.ipynb
+│   └──06_performance_tricks.ipynb
 │
 └── project/                          # Capstone: image processing pipeline
     ├── filters.py                    # Convolution: Sobel, Gaussian, Laplacian
